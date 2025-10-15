@@ -29,12 +29,11 @@ This project is not only technically impressive but also creatively inspiring. I
 
 In a broader sense, this task emphasizes how AI is becoming a creative collaborator rather than just a computational tool. By blending artistic intuition with algorithmic precision, it reflects humanity’s timeless desire to merge art and science. What once required a painter’s brush and months of effort can now be achieved in seconds — proof that technology, when guided thoughtfully, can amplify creativity rather than replace it.
 # OUTPUT
-
 ## Context Image
-<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/a5dbaaaf-308c-4fa2-8440-d6bcfa3ba0fd" />
+<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/995c2747-f7e5-48ba-8289-18193003c6cd" />
 
 ## Style Image
-<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/a5dbaaaf-308c-4fa2-8440-d6bcfa3ba0fd" />
+<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/6b9c7c2f-9ff3-42f7-aa4d-67572d170e76" />
 
 ## Styled Image
-<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/a5dbaaaf-308c-4fa2-8440-d6bcfa3ba0fd" />
+<img width="300" height="800" alt="Image" src="https://github.com/user-attachments/assets/8408c1b8-952b-42c1-ad50-9b0067bd3c13" />
